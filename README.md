@@ -49,6 +49,10 @@ The dashboard includes interactive visuals to track:
 3. Explore the dashboard using slicers for region, category, and time period.
 4. Refresh data if connected to an external source.
 
+## 📬 Contact
+
+For queries or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neha-nakhate/) .
+
 ---
 ![image](https://github.com/user-attachments/assets/5d01f50a-c781-4d63-9cc9-3cf756949301)
 
