@@ -50,3 +50,5 @@ The dashboard includes interactive visuals to track:
 4. Refresh data if connected to an external source.
 
 ---
+![image](https://github.com/user-attachments/assets/5d01f50a-c781-4d63-9cc9-3cf756949301)
+
